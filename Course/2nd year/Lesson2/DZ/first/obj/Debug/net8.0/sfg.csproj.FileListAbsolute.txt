@@ -1,0 +1,14 @@
+C:\Users\Nikita\Desktop\sfg\bin\Debug\net8.0\sfg.exe
+C:\Users\Nikita\Desktop\sfg\bin\Debug\net8.0\sfg.deps.json
+C:\Users\Nikita\Desktop\sfg\bin\Debug\net8.0\sfg.runtimeconfig.json
+C:\Users\Nikita\Desktop\sfg\bin\Debug\net8.0\sfg.dll
+C:\Users\Nikita\Desktop\sfg\bin\Debug\net8.0\sfg.pdb
+C:\Users\Nikita\Desktop\sfg\obj\Debug\net8.0\sfg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\sfg\obj\Debug\net8.0\sfg.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\sfg\obj\Debug\net8.0\sfg.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\sfg\obj\Debug\net8.0\sfg.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\sfg\obj\Debug\net8.0\sfg.dll
+C:\Users\Nikita\Desktop\sfg\obj\Debug\net8.0\refint\sfg.dll
+C:\Users\Nikita\Desktop\sfg\obj\Debug\net8.0\sfg.pdb
+C:\Users\Nikita\Desktop\sfg\obj\Debug\net8.0\sfg.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\sfg\obj\Debug\net8.0\ref\sfg.dll
